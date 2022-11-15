@@ -1,0 +1,11 @@
+.character-view{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: #97ce4c;
+    
+    text-align: center;
+    padding: 0px 60vh;
+   
+
+}
